@@ -1,6 +1,6 @@
 # FlightStakeFi ✈️
 
-**The world's first DeFi protocol for air travel.** Transform your flight tickets into liquid assets—stake for yield, borrow against them, or trade instantly on our marketplace.
+**The world's first DeFi protocol for air travel.** Transform your flight tickets into liquid assets,stake for yield, borrow against them, or trade instantly on our marketplace.
 
 ---
 
