@@ -1,6 +1,7 @@
-node_modules
-# Keep environment variables out of version control
-.env
+WORLDID_SETUP.md
+transactionhashes.md
+transactions.txt    
+.env.example
 .env.local
 .env.development.local
 .env.test.local
@@ -11,4 +12,4 @@ node_modules
 .env.development.local
 .env.test.local
 .env.production.local
-.env.example
+.env
